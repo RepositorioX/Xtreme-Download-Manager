@@ -4,6 +4,7 @@ Instrucciones de instalación
 
 Link del proyecto: https://sourceforge.net/projects/xdman/
 
+![xdman](https://a.fsdn.com/con/app/proj/xdman/screenshots/Capture9.PNG/max/max/1)
 
 Descarga la version de tu distro:
            
